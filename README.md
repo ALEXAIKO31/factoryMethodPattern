@@ -1,4 +1,4 @@
 # factoryMethodPattern
 
-Authot
+Author:
   Alejandro Velasco Espejo
